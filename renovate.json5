@@ -6,7 +6,7 @@
   ],
   customManagers: [
     {
-      "description": "Custom manager for GHA, to test the difference
+      "description": "Custom manager for GHA, to test the difference",
       "customType": "regex",
       "managerFilePatterns": [
         "/^fake-action-file.yml$/"
