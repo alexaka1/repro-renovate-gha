@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-24.04
     env:
       # renovate: datasource=deb depName=docker-ce-cli versioning=deb registryUrl=https://download.docker.com/linux/ubuntu?suite=noble&components=stable&binaryArch=amd64
-      DOCKER_VERSION: '5:27.4.1-1~ubuntu.24.04~noble'
+      DOCKER_VERSION: '5:28.5.1-1~ubuntu.24.04~noble'
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
